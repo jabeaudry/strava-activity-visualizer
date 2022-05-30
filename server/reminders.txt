@@ -1,8 +1,0 @@
-initialize the environment
-py -m pipenv shell   
-
-flask dependencies
-py -m pipenv install flask flask-sqlalchemy flask-marshmallow marshmallow-sqlalchemy flask-cors
-
-To activate this project's virtualenv, run pipenv shell
-Alternatively, run a command inside the virtualenv with pipenv run

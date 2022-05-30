@@ -1,0 +1,16 @@
+initialize the environment
+py -m pipenv shell   
+
+flask dependencies
+py -m pipenv install flask flask-sqlalchemy flask-marshmallow marshmallow-sqlalchemy flask-cors
+
+To activate this project's virtualenv, run pipenv shell
+Alternatively, run a command inside the virtualenv with pipenv run
+
+
+strava
+https://www.strava.com/oauth/authorize?client_id=83740&response_type=code&redirect_uri=http://localhost/exchange_token&approval_prompt=force&scope=read
+copy code
+d015501bd9820fcf20a9004852e87cb8dbb05054
+
+curl -X POST "https://www.strava.com/oauth/token?client_id=83740&client_secret=db113d83f51c415f8e596b3d537a7b01c628eab3&code=d015501bd9820fcf20a9004852e87cb8dbb05054&grant_type=authorization_code"
