@@ -26,4 +26,4 @@ I wanted to create a clear, visual reprentation of my yearly outings with a simp
 ### Infobox
 <img width="235" alt="image" src="https://user-images.githubusercontent.com/56971054/176043166-556387c2-2c0f-437a-95c6-5bffc7125a39.png">
   
-When the user hovers over a bar from the graph, the activity is displayed, along with the current week. Additionally, the time spent practicing said sport is shown in contrast with the year's total moving time. 
+When the user hovers over a bar from the graph, the activity is displayed along with the current week. The time spent practicing said sport is also shown in contrast with the year's total moving time. 
