@@ -1,8 +1,0 @@
-DROP TABLE IF EXISTS activities;
-
-CREATE TABLE activities (
-    id INTEGER PRIMARY KEY AUTOINCREMENT,
-    sport TEXT NOT NULL,
-    duration TEXT NOT NULL,
-    years TEXT NOT NULL
-);
