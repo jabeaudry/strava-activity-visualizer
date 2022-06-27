@@ -55,7 +55,7 @@ export default {
 @import url('https://fonts.googleapis.com/css2?family=Open+Sans&family=Roboto:wght@100;300&display=swap');
 
 	svg, svg * {
-  		pointer-events: visible;
+		pointer-events: visible;
 	}
 	.year-picker-container{
 		position: fixed;
