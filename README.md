@@ -15,7 +15,7 @@ I love using [Strava](https://www.strava.com/) to record my weekly physical acti
 The Vue app is located at `/client/`.
     
 **Back-end: [Flask](https://flask.palletsprojects.com/en/2.1.x/), [Strava API](https://developers.strava.com/)**  
-The back-end is located at `/`. When the application starts running, all of my activities uploaded on Strava are fetched using the Strava API. The activities are stored in a temporary variable that can be accessed by the front-end with a *GET* request. 
+The back-end is located at `/`. When the application starts running, all of my activities uploaded on Strava are fetched using the Strava API. The activities are stored in a temporary variable, which can be retrieved by the front-end with a *GET* request. 
   
 ## Components
 ### Button
