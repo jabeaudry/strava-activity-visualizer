@@ -1,5 +1,5 @@
 # Strava Activity Visualizer
-An application to graph my Strava activities by year, using `Vue.js`, `Python` and the `Strava API`.
+An application prototype to graph my Strava activities by year, using `Vue.js`, `Python` and the `Strava API`.
 
 
 
